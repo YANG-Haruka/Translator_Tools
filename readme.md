@@ -1,9 +1,11 @@
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Haruka_YANG (Practice Version)
+By Haruka_YANG (Practice Version)
+
 Now: Only ChatGPT
+
 More Translation Tool API - Update as soon
+
 Date: January 19, 2024
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
 
 Steps:
 
